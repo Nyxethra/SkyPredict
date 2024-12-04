@@ -1,0 +1,12 @@
+pandas
+numpy 
+matplotlib
+seaborn
+pyspark==3.5.3
+py4j==0.10.9.7
+kafka-python
+cassandra-driver
+tk
+jupyter
+notebook
+scikit-learn
